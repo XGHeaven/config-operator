@@ -4,7 +4,7 @@ Introduce
 [![Build Status](https://img.shields.io/travis/XGHeaven/config-operator.svg?style=flat-square)](https://travis-ci.org/XGHeaven/config-operator)
 [![npm](https://img.shields.io/npm/v/config-operator.svg?style=flat-square)](https://www.npmjs.com/package/config-operator)
 [![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)](https://www.npmjs.com/package/config-operator)
-[![Coveralls](https://img.shields.io/coveralls/XGHeaven/config-operator.svg?style=flat-square)]()
+[![Coveralls](https://img.shields.io/coveralls/XGHeaven/config-operator.svg?style=flat-square)](https://coveralls.io/github/XGHeaven/config-operator?branch=master)
 
 This a configure file manager.
 
