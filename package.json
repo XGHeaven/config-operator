@@ -1,6 +1,6 @@
 {
   "name": "config-operator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "operate config object with fully utils",
   "main": "lib/index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "is-plain-object": "^2.0.1",
-    "lodash.pick": "^4.0.0"
-    "lodash.assign": "^4.0.0",
+    "lodash.pick": "^4.0.0",
+    "lodash.assign": "^4.0.0"
   }
 }
