@@ -22,7 +22,7 @@
     "mocha": "^3.0.2"
   },
   "dependencies": {
-    "is-plain-object": "^2.0.1",
+    "is-plain-object": "^2.0.2",
     "lodash.pick": "^4.4.0",
     "lodash.assign": "^4.2.0"
   }
